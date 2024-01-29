@@ -10,13 +10,13 @@
 }
 
 .tableHeader {
-  background-color: #f5f5f5;
+  background-color: #6b6767;
 }
 
 .tableCell {
   padding: 10px;
   text-align: left;
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
 }
 
 

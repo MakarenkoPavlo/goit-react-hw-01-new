@@ -11,3 +11,12 @@ padding-bottom: 10px;
 font-size: 18px;
 
 }
+.Online {
+    composes: status;
+    color: green;
+}
+
+.Offline {
+    composes: status;
+    color: red;
+}
